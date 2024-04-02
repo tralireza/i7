@@ -1,4 +1,4 @@
-ffmpeg version n6.1-37-g41f32f0bc4 Copyright (c) 2000-2023 the FFmpeg developers
+ffmpeg version n6.1.1-33-g3834629897 Copyright (c) 2000-2023 the FFmpeg developers
 built with gcc 11 (GCC)
 configuration: --enable-pic --enable-gpl --enable-nonfree --enable-shared --disable-static --disable-htmlpages --disable-podpages --disable-txtpages --enable-gnutls --enable-libx264 --enable-libx265 --extra-cflags=-fPIC --enable-libzvbi
 libavutil      58. 29.100 / 58. 29.100
