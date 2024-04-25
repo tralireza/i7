@@ -1,11 +1,12 @@
-ffmpeg version n7.0-12-gcbd98447bc Copyright (c) 2000-2024 the FFmpeg developers
-built with gcc 11 (GCC)
-configuration: --enable-pic --enable-gpl --enable-nonfree --enable-shared --disable-static --disable-htmlpages --disable-podpages --disable-txtpages --enable-gnutls --enable-libx264 --enable-libx265 --extra-cflags=-fPIC --enable-libzvbi
-libavutil      59.  8.100 / 59.  8.100
-libavcodec     61.  3.100 / 61.  3.100
-libavformat    61.  1.100 / 61.  1.100
-libavdevice    61.  1.100 / 61.  1.100
-libavfilter    10.  1.100 / 10.  1.100
-libswscale      8.  1.100 /  8.  1.100
-libswresample   5.  1.100 /  5.  1.100
-libpostproc    58.  1.100 / 58.  1.100
+mpv v0.38.0-70-g2e03e0305c Copyright © 2000-2024 mpv/MPlayer/mplayer2 projects
+ built on Apr 24 2024 21:11:12
+libplacebo version: v6.338.2
+FFmpeg version: n7.0-12-gcbd98447bc
+FFmpeg library versions:
+   libavutil       59.8.100
+   libavcodec      61.3.100
+   libavformat     61.1.100
+   libswscale      8.1.100
+   libavfilter     10.1.100
+   libswresample   5.1.100
+
