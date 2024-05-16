@@ -1,5 +1,5 @@
 qemu-system-x86_64   -name Z
- -object memory-backend-file,id=hg0,size=16g,mem-path=/dev/hugepages1g,prealloc=on,share=off
+ -object memory-backend-file,id=hg0,size=16g,mem-path=/dev/hugepages/1g,prealloc=on,share=off
  -machine q35,mem-merge=off,dump-guest-core=off,vmport=off,memory-backend=hg0
  -accel kvm,dirty-ring-size=16384
  -cpu host -smp 2 -m 16g -boot dc
