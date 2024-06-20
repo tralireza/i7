@@ -1,0 +1,4 @@
+clang version 18.1.8 (https://github.com/llvm/llvm-project.git 3b5b5c1ec4a3095ab096dd780e84d7ab81f3d7ff)
+Target: x86_64-redhat-linux
+Thread model: posix
+InstalledDir: /usr/local/bin
