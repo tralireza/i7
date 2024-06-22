@@ -1,0 +1,1 @@
+meson setup --reconfigure   build.bin   -Dgallium-drivers=i915,iris -Dvulkan-drivers=intel -Dshared-llvm=disabled
