@@ -1,0 +1,9 @@
+
+X.Org X Server 1.21.1.5
+X Protocol Version 11, Revision 0
+Current Operating System: Linux i7.domain.local 6.5.5-rt22 #19 SMP PREEMPT_DYNAMIC Mon Oct  2 16:05:41 BST 2023 x86_64
+Kernel command line: BOOT_IMAGE=(hd0,gpt5)/boot/vmlinuz-6.5.5-rt22 root=UUID=655790eb-82ba-45e3-9bac-cabbbe6b6292 ro resume=UUID=c5410591-8e07-49f7-b29f-179749cc296e quiet hugepagesz=2m hugepages=1024 hugepagesz=1g hugepages=20
+ 
+Current version of pixman: 0.42.2
+	Before reporting problems, check http://wiki.x.org
+	to make sure that you have the latest version.
