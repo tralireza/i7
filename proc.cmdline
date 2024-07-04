@@ -1,0 +1,1 @@
+root=UUID=655790eb-82ba-45e3-9bac-cabbbe6b6292 rw quiet hugepagesz=2m hugepages=512 hugepagesz=1g hugepages=18
