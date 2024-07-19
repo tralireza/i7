@@ -1,2 +1,2 @@
-Startup finished in 10.630s (firmware) + 9.296s (loader) + 889ms (kernel) + 2.255s (initrd) + 5.799s (userspace) = 28.871s 
-multi-user.target reached after 5.792s in userspace.
+Startup finished in 11.257s (firmware) + 1.606s (loader) + 1.058s (kernel) + 2.797s (initrd) + 6.157s (userspace) = 22.876s 
+multi-user.target reached after 6.150s in userspace.
