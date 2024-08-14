@@ -1,4 +1,4 @@
-qemu-system-x86_64   -name Z
+qemu-system-x86_64   -name 14Z1
  -object memory-backend-file,id=hg0,size=16g,mem-path=/dev/hugepages/1g,prealloc=on,share=off
  -machine q35,mem-merge=off,dump-guest-core=off,vmport=off,memory-backend=hg0
  -accel kvm,dirty-ring-size=16384
@@ -8,7 +8,7 @@ qemu-system-x86_64   -name Z
 
  -object iothread,id=io0
   -device virtio-blk-pci,drive=disk0,disable-legacy=on,num-queues=4,iothread=io0,packed=on,bootindex=1
-  -drive if=none,id=disk0,file=/VMs/14z0.qcow2,format=qcow2,cache=none,aio=native
+  -drive if=none,id=disk0,file=/VMs/14z1.qcow2,format=qcow2,cache=none,aio=native
 
  -object iothread,id=io1
   -device virtio-blk-pci,drive=disk1,disable-legacy=on,num-queues=4,iothread=io1,packed=on
