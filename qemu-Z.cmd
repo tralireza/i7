@@ -15,11 +15,12 @@ qemu-system-x86_64   -name 14Z1
   -drive if=none,id=disk1,file=/dev/disk/by-id/ata-WDC_WD40EZRX-00SPEB0_WD-WCC4E2EC819J,format=raw,cache=none,aio=native
 
  -object iothread,id=io2
- -device virtio-blk-pci,drive=disk2,disable-legacy=on,num-queues=4,iothread=io2,packed=on
- -drive if=none,id=disk2,file=/VMs/bkzStore.qcow2,format=qcow2,cache=none,aio=native
+  -device virtio-blk-pci,drive=disk2,disable-legacy=on,num-queues=4,iothread=io2,packed=on
+  -drive if=none,id=disk2,file=/VMs/bkzStore.qcow2,format=qcow2,cache=none,aio=native
 
  -device virtio-net,packed=on,mq=on,netdev=nd0,mac=06:ae:bf:e1:93:39,disable-legacy=on,bus=pcie.0
   -netdev tap,vhost=on,id=nd0,helper=/usr/local/libexec/qemu-bridge-helper
+ 
  -device virtio-net,packed=on,mq=on,netdev=nd1,mac=06:ae:bf:e1:71:17,disable-legacy=on,bus=pcie.0
   -netdev tap,vhost=on,id=nd1,helper=/usr/local/libexec/qemu-bridge-helper
 
