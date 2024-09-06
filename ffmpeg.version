@@ -1,4 +1,4 @@
-ffmpeg version n7.0.2 Copyright (c) 2000-2024 the FFmpeg developers
+ffmpeg version n7.0.2-15-g0458a86656 Copyright (c) 2000-2024 the FFmpeg developers
 built with gcc 11 (GCC)
 configuration: --enable-pic --enable-gpl --enable-nonfree --enable-shared --enable-static --disable-htmlpages --disable-podpages --disable-txtpages --enable-openssl --enable-libx264 --enable-libx265 --extra-cflags=-fPIC --disable-debug
 libavutil      59.  8.100 / 59.  8.100
