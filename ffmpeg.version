@@ -1,11 +1,11 @@
-ffmpeg version n7.0.2-15-g0458a86656 Copyright (c) 2000-2024 the FFmpeg developers
+ffmpeg version n7.1 Copyright (c) 2000-2024 the FFmpeg developers
 built with gcc 11 (GCC)
 configuration: --enable-pic --enable-gpl --enable-nonfree --enable-shared --enable-static --disable-htmlpages --disable-podpages --disable-txtpages --enable-openssl --enable-libx264 --enable-libx265 --extra-cflags=-fPIC --disable-debug
-libavutil      59.  8.100 / 59.  8.100
-libavcodec     61.  3.100 / 61.  3.100
-libavformat    61.  1.100 / 61.  1.100
-libavdevice    61.  1.100 / 61.  1.100
-libavfilter    10.  1.100 / 10.  1.100
-libswscale      8.  1.100 /  8.  1.100
-libswresample   5.  1.100 /  5.  1.100
-libpostproc    58.  1.100 / 58.  1.100
+libavutil      59. 39.100 / 59. 39.100
+libavcodec     61. 19.100 / 61. 19.100
+libavformat    61.  7.100 / 61.  7.100
+libavdevice    61.  3.100 / 61.  3.100
+libavfilter    10.  4.100 / 10.  4.100
+libswscale      8.  3.100 /  8.  3.100
+libswresample   5.  3.100 /  5.  3.100
+libpostproc    58.  3.100 / 58.  3.100
