@@ -1,7 +1,7 @@
 Trying display: wayland
 Trying display: x11
 vainfo: VA-API version: 1.22 (libva 2.22.0.1)
-vainfo: Driver version: Intel iHD driver for Intel(R) Gen Graphics - 24.2.5 (12561f682)
+vainfo: Driver version: Intel iHD driver for Intel(R) Gen Graphics - 23.4.4 (e5cf28a43)
 vainfo: Supported profile and entrypoints
       VAProfileNone                   :	VAEntrypointVideoProc
       VAProfileNone                   :	VAEntrypointStats
